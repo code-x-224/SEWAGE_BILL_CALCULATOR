@@ -1,25 +1,23 @@
-Water Billing System
+Sewerage Billing System
 
-Welcome to the Water Billing System! This simple console application calculates the monthly water bill based on the type of water usage (Residential, Commercial, or Industrial) and the monthly consumption in cubic centimeters (cm^3).
+Welcome to the Sewerage Billing System! This console application calculates monthly sewerage bills based on the type of usage and monthly consumption. Below are the details on how to use and navigate the application.
 
 Usage Types and Codes
 
-1. Residential (Code: 1)
-2. Commercial (Code: 2)
-3. Industrial (Code: 3)
+Residential (Code: 1)
+Commercial (Code: 2)
+Industrial (Code: 3)
 
 How to Use
 
-1. Run the program.
-2. Enter the code corresponding to your type of water usage.
-3. Enter your monthly consumption in cubic centimeters (cm^3).
+Upon running the application, you will be prompted to enter the type of usage (1, 2, or 3) and monthly consumption.
+Enter the type of usage code (1, 2, or 3) as prompted.
+If the entered code is not valid (not 1, 2, or 3), you will be asked to enter a valid code.
+Enter the monthly consumption when prompted.
+If the entered monthly consumption is not a valid decimal or is less than or equal to 0, you will be asked to enter a valid monthly consumption.
+The application will calculate and display the monthly sewerage bill based on the selected usage type.
 
-The program will then calculate and display your monthly water bill based on the chosen type of usage.
-
-Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
-
-License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as needed.
+Important Note
+Ensure that you enter valid inputs to receive accurate billing information.
+The application will keep prompting for input until valid entries are provided.
+Feel free to explore and use the Sewerage Billing System. If you have any questions or encounter issues, please reach out to the developer. Happy billing!
