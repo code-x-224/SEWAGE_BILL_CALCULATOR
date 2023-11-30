@@ -70,10 +70,10 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 The Sewerage Billing System is the result of collaborative efforts and the dedication of individuals committed to delivering an efficient and user-friendly solution. We extend our gratitude to the following contributors:
 
-- **magwach**
+- **Voste254**
   - Lead Developer
 
-- **Voste254**
+- **Halkano_Arero**
   - Project Maintainer
 
 - **G-coderX**
@@ -82,7 +82,7 @@ The Sewerage Billing System is the result of collaborative efforts and the dedic
 - **karisacodes**
   - Software Tester
 
-- **Halkano_Arero**
+- **magwach**
   - Designer
 
 - **nyabs254**
